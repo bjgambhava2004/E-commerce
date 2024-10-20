@@ -25,7 +25,7 @@ Welcome to **Level Up Your Fitness**, your go-to fitness app to enhance your hea
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/kushpatel16112/Fitness.git
+    git clone https://github.com/bjgambhava2004/E-commerce.git
     cd Fitness
     ```
 
